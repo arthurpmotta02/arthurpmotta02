@@ -1,6 +1,6 @@
 # Oi! Eu sou o Arthur 🐍
 
-Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.
+Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, uso Python para análise de dados. A ovelha negra do departamento, digamos assim.
 
 ---
 

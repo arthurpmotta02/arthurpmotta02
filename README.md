@@ -10,7 +10,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Arthur's Github Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Arthur's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula&hide_border=false" alt="Arthur's Github Streak" />
 </div>
 
 ---

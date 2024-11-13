@@ -3,8 +3,7 @@
   Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu utilizo Python para análise de dados. A ovelha negra entre os estatísticos, digamos assim.
 </p>
 
----
-
+##
 ### 📊 Estatísticas GitHub
 
 <div align="center">
@@ -15,13 +14,12 @@
 </div>
 
 ## 
----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
----
+##
 
 ### 🌐 Conecte-se Comigo
 

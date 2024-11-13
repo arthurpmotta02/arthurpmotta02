@@ -1,16 +1,24 @@
-## Hi there 👋
+# Oi! Eu sou o Arthur 🐍
 
-<!--
-**arthurpmotta02/arthurpmotta02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estatísticas do GitHub
+
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurpmotta02&show_icons=true&theme=dracula)
+
+### Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula)
+
+### Commits Recentes
+
+![Commits por Semana](https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula)
+
+---
+
+## Ferramentas & Tecnologias
+
+🐍 Python é minha principal ferramenta para análise de dados. Sempre explorando mais em Machine Learning e APIs.
+

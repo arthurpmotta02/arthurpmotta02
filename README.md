@@ -3,39 +3,6 @@
   <i>Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.</i>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
-          alt="Arthur's Github Stats"
-        />
-      </td>
-      <td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-          alt="Arthur's Top Languages"
-        />
-      </td>
-      <td>
-        <br />
-        <img
-          align="left"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula&hide_border=false"
-          alt="Arthur's Github Streak"
-        />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🛠️ Tecnologias e Ferramentas
-
-- **Python** para análise de dados e automações
-- Ferramentas: **Jupyter, Pandas, Seaborn**
 
 ### 📊 Estatísticas GitHub
 

@@ -1,24 +1,43 @@
-# Oi! Eu sou o Arthur 🐍
-
-Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, uso Python para análise de dados. A ovelha negra do departamento, digamos assim.
-
----
-
-### Estatísticas do GitHub
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurpmotta02&show_icons=true&theme=dracula)
-
-### Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula)
-
-### Commits Recentes
-
-![Commits por Semana](https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula)
+<h1 align="center">Oi! Eu sou o Arthur 🐍</h1>
+<p align="center">
+  <i>Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.</i>
+</p>
 
 ---
 
-## Ferramentas & Tecnologias
+<div align="center">
+  <a href="https://github.com/arthurpmotta02">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
-🐍 Python é minha principal ferramenta para análise de dados. Sempre explorando mais em Machine Learning e APIs.
+<div align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+</div>
 
+---
+
+### 🐍 Sobre Mim
+
+- 🎓 Estudante na **UFRJ**
+- 💻 **Python** para análise de dados e automações
+- 🧮 Interessado em **Estatística Aplicada** e **Ciências Atuariais**
+
+### 📈 Minhas Estatísticas
+
+<div align="center">
+  <a href="https://github.com/arthurpmotta02">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/arthurpmotta/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="http://lattes.cnpq.br/3952575997144808"><img src="https://img.shields.io/badge/-Lattes-2D6AB5?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"></a>
+</div>

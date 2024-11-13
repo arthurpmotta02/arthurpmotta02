@@ -1,6 +1,6 @@
 <h1 align="center">Oi! Eu sou o Arthur 🐍</h1>
 <p align="center">
-  <i>Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.</i>
+  Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.
 </p>
 
 ### 📊 Estatísticas GitHub

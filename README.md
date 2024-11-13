@@ -8,28 +8,9 @@
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
-          alt="Arthur's Github Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-          alt="Arthur's Top Languages"
-        />
-      </td>
-      <td>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula&hide_border=false"
-          alt="Arthur's Github Streak"
-        />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Arthur's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Arthur's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurpmotta02&theme=dracula&hide_border=false" alt="Arthur's Github Streak" />
 </div>
 
 ---
@@ -48,6 +29,3 @@
   <a href="http://lattes.cnpq.br/3952575997144808"><img src="https://img.shields.io/badge/-Lattes-4169E1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Lattes"></a>
   <a href="https://github.com/arthurpmotta02"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
-
-
-

@@ -3,10 +3,6 @@
   Estudante de Ciências Atuariais e Estatística (duplo diploma) na UFRJ. Gosto de quebrar tradições e, enquanto o departamento reza pelo R, eu me viro com Python para análise de dados. A ovelha negra das linhas de código, digamos assim.
 </p>
 
-<div align="center">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</div>
-
 ### 📊 Estatísticas GitHub
 
 <div align="center">
@@ -36,6 +32,10 @@
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ### 🌐 Conecte-se Comigo

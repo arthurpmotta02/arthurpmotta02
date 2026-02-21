@@ -1,32 +1,36 @@
-<h1 align="center">Oi! Eu sou o Arthur :) </h1>
-<p align="center">
-  Estudante de Ciências Atuariais e Estatística.
-</p>
+# Olá, sou Arthur Pontes Motta 👋
 
-##
-### 📊 Estatísticas GitHub
+Estudante de Estatística e Ciências Atuariais na UFRJ. Trabalho na intersecção entre **métodos atuariais clássicos** e **data science moderna** aplicados ao mercado de seguros.
 
-<div align="center">
-  <a href="https://github.com/arthurpmotta02">
-    <img height="180em" width="54%" src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars,issues" alt="Arthur's Github Stats" />
-    <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&langs_count=7&theme=dracula" alt="Arthur's Top Languages" />
-  </a>
-</div>
+---
 
-## 
+## 🚗 Projeto em Destaque
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Jupyter Notebook" height="40" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
-</div>
+### [Insurance Pricing Model — SUSEP AUTOSEG](https://github.com/arthurpmotta02/insurance-pricing-susep)
 
-##
+Modelo de precificação de seguro auto com **12,6 milhões de apólices** reais da SUSEP (2019–2021).
 
-### 🌐 Conecte-se Comigo
+- **GLM Poisson** para frequência de sinistros + **GLM Gamma** para severidade
+- **XGBoost** com objetivo Tweedie para dados com 90% de zeros
+- **SHAP** para explicabilidade regulatória
+- **Streamlit app** com calculadora interativa de prêmio puro
 
-<div align="center">
-  <a href="mailto:arthurpmotta02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/arthurpmotta/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="http://lattes.cnpq.br/3952575997144808"><img src="https://img.shields.io/badge/-Lattes-4169E1?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Lattes"></a>
-  <a href="https://github.com/arthurpmotta02"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://insurance-pricing-susep.streamlit.app)
+
+---
+
+## 🛠️ Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurpmotta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arthurpmotta02)

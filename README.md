@@ -1,16 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:282a36,100:6272a4&height=180&text=Arthur%20Pontes%20Motta&fontColor=f8f8f2&fontSize=40&fontAlign=70&fontAlignY=35&desc=Actuarial%20Science%20%26%20Statistics%20%E2%80%94%20UFRJ&descAlign=67&descAlignY=60&descSize=15&animation=fadeIn)
+<div align="center">
 
-```yaml
-name:     Arthur Pontes Motta
-degree:   B.Sc. Actuarial Science & Statistics — UFRJ (2021–present)
-research: Stochastic Processes with Renewal
-          IM/UFRJ/CNPq — dgp.cnpq.br/dgp/espelhogrupo/2640323226298690
-focus:    Actuarial pricing · Reinsurance analytics · Pension fund valuation
-          Loss reserving · Extreme Value Theory · Asset-Liability Management
-links:
-  linkedin: linkedin.com/in/arthurpmotta
-  github:   github.com/arthurpmotta02
-```
+# Arthur Pontes Motta
+
+**Actuarial Science & Statistics — UFRJ**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurpmotta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurpmotta)
+[![GitHub](https://img.shields.io/badge/GitHub-arthurpmotta02-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurpmotta02)
+[![CNPq](https://img.shields.io/badge/CNPq-Stochastic%20Processes%20Research-6272a4?style=flat-square)](https://dgp.cnpq.br/dgp/espelhogrupo/2640323226298690)
+
+B.Sc. Actuarial Science & Statistics · UFRJ · 2021–present
+
+Research: Stochastic Processes with Renewal · IM/UFRJ/CNPq · 2024–2026
+
+Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss reserving · Extreme Value Theory · ALM
+
+</div>
 
 ---
 
@@ -97,7 +101,4 @@ Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortali
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula&hide_border=true)](https://github.com/arthurpmotta02)
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=blur&color=0:6272a4,100:282a36&height=120&section=footer&reversal=true)
+[![Gists](https://github-readme-stats.vercel.app/api/gist?id=arthurpmotta02&theme=dracula&hide_border=true)](https://gist.github.com/arthurpmotta02)

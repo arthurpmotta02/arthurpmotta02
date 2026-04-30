@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:282a36,100:6272a4&height=180&text=Arthur%20Pontes%20Motta&fontColor=f8f8f2&fontSize=42&fontAlign=70&fontAlignY=35&desc=Actuarial%20Science%20%26%20Statistics%20%E2%80%94%20UFRJ&descAlign=67&descAlignY=60&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:282a36,100:6272a4&height=180&text=Arthur%20Pontes%20Motta&fontColor=f8f8f2&fontSize=40&fontAlign=70&fontAlignY=35&desc=Actuarial%20Science%20%26%20Statistics%20%E2%80%94%20UFRJ&descAlign=67&descAlignY=60&descSize=15&animation=fadeIn)
 
 ```yaml
 name:     Arthur Pontes Motta
@@ -18,41 +18,39 @@ links:
 
 **Actuarial & Statistical Modelling**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</p>
-
-`StMoMo` `lifecontingencies` `insurancerating` `ChainLadder` `tidyverse` `ggplot2`
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![StMoMo](https://img.shields.io/badge/StMoMo-276DC3?style=flat-square&logo=r&logoColor=white)
+![lifecontingencies](https://img.shields.io/badge/lifecontingencies-276DC3?style=flat-square&logo=r&logoColor=white)
+![insurancerating](https://img.shields.io/badge/insurancerating-276DC3?style=flat-square&logo=r&logoColor=white)
+![ChainLadder](https://img.shields.io/badge/ChainLadder-276DC3?style=flat-square&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=flat-square&logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Machine Learning & Data Science**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/>
-</p>
-
-`XGBoost` `SHAP` `GLM (Poisson · Gamma · Tweedie)` `EVT / GPD`
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=flat-square)
+![GLM](https://img.shields.io/badge/GLM%20Poisson%20%C2%B7%20Gamma%20%C2%B7%20Tweedie-6272a4?style=flat-square)
+![EVT](https://img.shields.io/badge/EVT%20%2F%20GPD-6272a4?style=flat-square)
 
 **Deploy & Visualization**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="40" height="40" alt="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly"/>
-</p>
-
-`Power BI` `ggplot2`
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Infrastructure**
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
@@ -62,7 +60,12 @@ links:
 
 End-to-end pricing pipeline for auto insurance using real Brazilian market data (SUSEP AUTOSEG 2019–2021). Collision and theft coverages modelled separately with GLM Poisson (frequency) and GLM Gamma (severity), benchmarked against XGBoost Tweedie (Gini = 0.241 collision, 0.402 theft). SHAP explainability. Interactive Streamlit deploy.
 
-`Python` `GLM` `XGBoost` `SHAP` `SUSEP` `Streamlit`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-6272a4?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-FF4B4B?style=flat-square)
+![SUSEP](https://img.shields.io/badge/SUSEP-282a36?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -70,7 +73,11 @@ End-to-end pricing pipeline for auto insurance using real Brazilian market data 
 
 Reinsurance analytics pipeline on French Motor TPL data (freMTPL2, 678k policies). Extreme Value Theory (GPD, Hill estimator) for tail modelling; treaty structuring across Quota Share, XL and Aggregate Stop Loss; differential evolution optimization achieving 20.1% capital relief on VaR 99.5% annual aggregate. Streamlit dashboard with 5 interactive pages.
 
-`Python` `EVT` `GPD` `Reinsurance` `Optimization` `Streamlit`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![EVT](https://img.shields.io/badge/EVT-6272a4?style=flat-square)
+![GPD](https://img.shields.io/badge/GPD-6272a4?style=flat-square)
+![Reinsurance](https://img.shields.io/badge/Reinsurance-282a36?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -78,15 +85,18 @@ Reinsurance analytics pipeline on French Motor TPL data (freMTPL2, 678k policies
 
 Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortality projection to 2065 via `StMoMo`; Projected Unit Credit method via `lifecontingencies` — PMBaC R$16.7M, PMBC R$353.8M. Longevity sensitivity: +1 yr of life expectancy = +0.7% liability. ALM: liability duration 18.5 yr vs NTN-B portfolio 9.3 yr. Interest rate stress +-200bp. Streamlit dashboard.
 
-`R` `Python` `StMoMo` `lifecontingencies` `ALM` `NTN-B` `Streamlit`
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![StMoMo](https://img.shields.io/badge/StMoMo-276DC3?style=flat-square&logo=r&logoColor=white)
+![lifecontingencies](https://img.shields.io/badge/lifecontingencies-276DC3?style=flat-square&logo=r&logoColor=white)
+![ALM](https://img.shields.io/badge/ALM-6272a4?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&amp;layout=compact&amp;theme=dracula&amp;hide_border=true" height="160" alt="Most Used Languages"/>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula&hide_border=true)](https://github.com/arthurpmotta02)
 
 ---
 

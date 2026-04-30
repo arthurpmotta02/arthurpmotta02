@@ -44,8 +44,9 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 **Deploy & Visualization**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Infrastructure**
@@ -59,6 +60,18 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 ---
 
 ## Projects
+
+### [Cadastral Actuarial Pipeline](https://github.com/arthurpmotta02/cadastral-actuarial-pipeline)
+
+Actuarial data quality pipeline for Brazilian EFPC pension funds (PREVIC Resolution 7/2022 and CPA 017/2019 IBA). Automates 19 regulatory validations across 3 participant populations (active, beneficiaries, deferred), classifying issues as CRITICAL or ALERT. Processes 930-participant base in ~2 seconds vs hours of manual Excel work. Outputs: formatted actuarial Excel report, Plotly Dash dashboard (4 pages, dark theme, Docker deploy), and a full Power BI PBIP/PBIR project generated entirely by code (47 JSON files via TMDL).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PREVIC](https://img.shields.io/badge/PREVIC-6272a4?style=flat-square)
+
+---
 
 ### [Insurance Pricing Model — SUSEP AUTOSEG](https://github.com/arthurpmotta02/insurance-pricing-susep)
 
@@ -101,4 +114,3 @@ Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortali
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula&hide_border=true)](https://github.com/arthurpmotta02)
-[![Gists](https://github-readme-stats.vercel.app/api/gist?id=arthurpmotta02&theme=dracula&hide_border=true)](https://gist.github.com/arthurpmotta02)

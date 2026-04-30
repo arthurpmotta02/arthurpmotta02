@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-arthurpmotta02-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurpmotta02)
 [![CNPq](https://img.shields.io/badge/CNPq-Stochastic%20Processes%20Research-6272a4?style=flat-square)](https://dgp.cnpq.br/dgp/espelhogrupo/2640323226298690)
 
-B.Sc. Actuarial Science & Statistics · UFRJ · 2021–present
+B.Sc. Actuarial Science & Statistics · UFRJ · 2021–2026
 
 Research: Stochastic Processes with Renewal · IM/UFRJ/CNPq · 2024–2026
 

@@ -24,6 +24,7 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stan](https://img.shields.io/badge/Stan-B2001D?style=flat-square)
 ![StMoMo](https://img.shields.io/badge/StMoMo-276DC3?style=flat-square&logo=r&logoColor=white)
 ![lifecontingencies](https://img.shields.io/badge/lifecontingencies-276DC3?style=flat-square&logo=r&logoColor=white)
 ![insurancerating](https://img.shields.io/badge/insurancerating-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -45,6 +46,7 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly Dash](https://img.shields.io/badge/Plotly%20Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -60,6 +62,21 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 ---
 
 ## Projects
+
+### [Mortality Forecasting — Pension Fund Credibility (EFPC)](https://github.com/arthurpmotta02/credibilidade-mortalidade-efpc)
+
+Mortality forecasting for a Brazilian EFPC using Bühlmann-Straub credibility and full Bayesian inference. Individual age-level data (116 ages, 417k person-years, 3,658 deaths, 2012–2014). PELT-Poisson changepoint detection for objective risk segmentation (6 breakpoints, largest regime shift 7.06×). Credibility factors ω̂ᵢ > 0.999 across all groups. BS outperforms AT-2000, BR-EMS and Pub-2010 in 3 of 4 age bands. Poisson-Gamma Stan model (4 chains × 30k iter, R̂ < 1.001): full predictive distribution with 95% CI [1,144; 1,322] for 2014 vs. 1,335 observed. Interactive Quarto report published on GitHub Pages.
+
+[![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/credibilidade-mortalidade-efpc/)
+[![PDF](https://img.shields.io/badge/PDF-LaTeX-red?style=flat-square)](https://github.com/arthurpmotta02/credibilidade-mortalidade-efpc/blob/main/relatorio.pdf)
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Stan](https://img.shields.io/badge/Stan-B2001D?style=flat-square)
+![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
+![Bühlmann-Straub](https://img.shields.io/badge/Bühlmann--Straub-6272a4?style=flat-square)
+![PREVIC](https://img.shields.io/badge/PREVIC-282a36?style=flat-square)
+
+---
 
 ### [Cadastral Actuarial Pipeline](https://github.com/arthurpmotta02/cadastral-actuarial-pipeline)
 

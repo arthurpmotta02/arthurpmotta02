@@ -32,6 +32,8 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 ![survival](https://img.shields.io/badge/survival-276DC3?style=flat-square&logo=r&logoColor=white)
 ![flexsurv](https://img.shields.io/badge/flexsurv-276DC3?style=flat-square&logo=r&logoColor=white)
 ![forecast](https://img.shields.io/badge/forecast-276DC3?style=flat-square&logo=r&logoColor=white)
+![dlm](https://img.shields.io/badge/dlm-276DC3?style=flat-square&logo=r&logoColor=white)
+![KFAS](https://img.shields.io/badge/KFAS-276DC3?style=flat-square&logo=r&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-276DC3?style=flat-square&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
@@ -46,6 +48,7 @@ Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss res
 ![EVT](https://img.shields.io/badge/EVT%20%2F%20GPD-6272a4?style=flat-square)
 ![Cox PH](https://img.shields.io/badge/Cox%20PH%20%2F%20AFT-6272a4?style=flat-square)
 ![SARIMA](https://img.shields.io/badge/SARIMA%20%2F%20STL-6272a4?style=flat-square)
+![DLM](https://img.shields.io/badge/DLM%20%2F%20Kalman-6272a4?style=flat-square)
 
 **Deploy & Visualization**
 
@@ -100,7 +103,7 @@ Complete survival analysis of the `flchain` cohort (7,871 individuals, 2,166 dea
 
 ### [CO₂ Mauna Loa — SARIMA Forecasting](https://github.com/arthurpmotta02/co2-mauna-loa-sarima)
 
-Full SARIMA analysis of the Keeling Curve (468 monthly observations, 1959–1997). STL decomposition, ADF/KPSS stationarity tests, ACF/PACF identification. Seven candidate models compared by AIC, AICc and BIC — SARIMA(1,1,1)(0,1,1)₁₂ selected by parsimony (ΔAICc < 0.3 vs. nearest competitor). All diagnostics passed: Ljung-Box p = 0.41 (h = 48), Shapiro-Wilk p = 0.53, Jarque-Bera p = 0.38. 24-month forecast for 1998–1999 with 95% CI width growing from ±0.5 to ±2.0 ppm (<0.6% relative error). Regression + ARMA(1,1) alternative benchmarked (ΔAIC = 104). Interactive Quarto report published on GitHub Pages.
+Full SARIMA analysis of the Keeling Curve (468 monthly observations, 1959–1997). STL decomposition, ADF/KPSS stationarity tests, ACF/PACF identification. Seven candidate models compared by AIC, AICc and BIC — SARIMA(1,1,1)(0,1,1)₁₂ selected by parsimony (ΔAICc < 0.3 vs. nearest competitor). All diagnostics passed: Ljung-Box p = 0.41 (h = 48), Shapiro-Wilk p = 0.53, Jarque-Bera p = 0.38. 24-month forecast for 1998–1999 with 95% CI width growing from ±0.5 to ±2.0 ppm (<0.6% relative error). Regression + ARMA(1,1) alternative benchmarked (ΔAIC = 104). Extended in Part 2 with Dynamic Linear Models. Interactive Quarto report published on GitHub Pages.
 
 [![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/co2-mauna-loa-sarima/)
 
@@ -109,6 +112,21 @@ Full SARIMA analysis of the Keeling Curve (468 monthly observations, 1959–1997
 ![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
 ![SARIMA](https://img.shields.io/badge/SARIMA-6272a4?style=flat-square)
 ![STL](https://img.shields.io/badge/STL%20Decomposition-6272a4?style=flat-square)
+
+---
+
+### [CO₂ Mauna Loa — Dynamic Linear Models](https://github.com/arthurpmotta02/co2-mauna-loa-dlm)
+
+Bayesian state-space analysis of the Keeling Curve using Dynamic Linear Models (same dataset as Part 1). Three DLM formulations compared (dlmModSeas, dlmModTrig, KFAS) — Model B (dlmModTrig, J = 6 Fourier harmonics, 13 states) selected by log-likelihood (205.42) and as the only model satisfying both white-noise (Ljung-Box p = 0.21, h = 12) and normality (Shapiro-Wilk p = 0.56) assumptions on innovations. Kalman filter and backward smoother recover the latent level μₜ and growth rate β̂ₜ, revealing acceleration from ~0.8 to ~1.5 ppm/yr (1960–1997) — inaccessible to SARIMA. Discount factor approach (δ_T = 0.95, δ_S = 0.98) implemented from scratch for unknown V. 24-month forecasts align with SARIMA within 0.5 ppm across all horizons. Interactive Quarto report published on GitHub Pages.
+
+[![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/co2-mauna-loa-dlm/)
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![dlm](https://img.shields.io/badge/dlm-276DC3?style=flat-square&logo=r&logoColor=white)
+![KFAS](https://img.shields.io/badge/KFAS-276DC3?style=flat-square&logo=r&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
+![DLM](https://img.shields.io/badge/DLM%20%2F%20Kalman-6272a4?style=flat-square)
+![Discount](https://img.shields.io/badge/Discount%20Factors-6272a4?style=flat-square)
 
 ---
 

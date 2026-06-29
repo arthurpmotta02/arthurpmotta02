@@ -12,7 +12,7 @@ B.Sc. Actuarial Science & Statistics · UFRJ · 2021–2026
 
 Research: Stochastic Processes with Renewal · IM/UFRJ/CNPq · 2024–2026
 
-Actuarial pricing · Reinsurance analytics · Pension fund valuation · Loss reserving · Extreme Value Theory · ALM
+Actuarial pricing · Credibility theory · Survival analysis · Time series & state space models · Bayesian inference · Reinsurance analytics · Pension fund valuation · Loss reserving · Extreme Value Theory · ALM
 
 </div>
 

@@ -1,20 +1,28 @@
 <div align="center">
 
-# Arthur Pontes Motta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=190&section=header&text=Arthur%20Pontes%20Motta&fontSize=44&fontColor=f8f8f2&animation=fadeIn&fontAlignY=32&desc=Actuarial%20Science%20%26%20Statistics%20%C2%B7%20UFRJ&descSize=18&descAlignY=54" width="100%"/>
 
-**Actuarial Science & Statistics — UFRJ**
+<a href="https://github.com/arthurpmotta02">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Actuarial+Science+%26+Statistics+%40+UFRJ;Stochastic+Processes+Researcher+%40+CNPq%2FIM-UFRJ;Bayesian+Inference+%C2%B7+Credibility+Theory;Survival+Analysis+%C2%B7+Time+Series+%C2%B7+EVT;Pricing+%C2%B7+Reserving+%C2%B7+Reinsurance+%C2%B7+ALM" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurpmotta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurpmotta)
-[![GitHub](https://img.shields.io/badge/GitHub-arthurpmotta02-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arthurpmotta02)
-[![CNPq](https://img.shields.io/badge/CNPq-Stochastic%20Processes%20Research-6272a4?style=flat-square)](https://dgp.cnpq.br/dgp/espelhogrupo/2640323226298690)
+<br/>
 
-B.Sc. Actuarial Science & Statistics · UFRJ · 2021–2026
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurpmotta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurpmotta)
+[![GitHub](https://img.shields.io/badge/GitHub-arthurpmotta02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurpmotta02)
+[![Email](https://img.shields.io/badge/Email-arthurpmotta02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurpmotta02@gmail.com)
+[![CNPq](https://img.shields.io/badge/CNPq-Stochastic%20Processes%20Research-6272a4?style=for-the-badge)](https://dgp.cnpq.br/dgp/espelhogrupo/2640323226298690)
 
-Research: Stochastic Processes with Renewal · IM/UFRJ/CNPq · 2024–2026
-
-Actuarial pricing · Credibility theory · Survival analysis · Time series & state space models · Bayesian inference · Reinsurance analytics · Pension fund valuation · Loss reserving · Extreme Value Theory · ALM
+<img src="https://komarev.com/ghpvc/?username=arthurpmotta02&color=bd93f9&style=flat-square&label=Profile+views" alt="Profile views"/>
 
 </div>
+
+## About
+
+- B.Sc. in **Actuarial Science & Statistics** — UFRJ (2021–2026)
+- Undergraduate researcher in **Stochastic Processes with Renewal** — IM/UFRJ · CNPq (2024–2026)
+- Core interests: **actuarial pricing · credibility theory · survival analysis · time series & state space models · Bayesian inference · reinsurance analytics · pension fund valuation · loss reserving · Extreme Value Theory · ALM**
+- Everything I build ships as a **reproducible report or interactive app** — Quarto on GitHub Pages, Streamlit, Plotly Dash or Power BI
 
 ---
 
@@ -57,7 +65,6 @@ Actuarial pricing · Credibility theory · Survival analysis · Time series & st
 ![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Infrastructure**
 
@@ -71,13 +78,23 @@ Actuarial pricing · Credibility theory · Survival analysis · Time series & st
 
 ## Projects
 
-### [Mortality Forecasting — Pension Fund Credibility (EFPC)](https://github.com/arthurpmotta02/credibilidade-mortalidade-efpc)
+| # | Project | Focus | Stack |
+|---|---------|-------|-------|
+| 1 | [Mortality Forecasting — EFPC Credibility](#1-mortality-forecasting--pension-fund-credibility-efpc) | Bühlmann-Straub · Bayesian Stan | R · Stan · Quarto |
+| 2 | [FLC & All-Cause Mortality](#2-serum-free-light-chain--all-cause-mortality--survival-analysis) | Cox PH · AFT · KM/NA | R · survival · flexsurv |
+| 3 | [CO₂ Mauna Loa — SARIMA](#3-co₂-mauna-loa--sarima-forecasting) | Box-Jenkins forecasting | R · forecast |
+| 4 | [CO₂ Mauna Loa — DLM](#4-co₂-mauna-loa--dynamic-linear-models) | State space · Kalman | R · dlm · KFAS |
+| 5 | [Cadastral Actuarial Pipeline](#5-cadastral-actuarial-pipeline) | Regulatory data quality | Python · Dash · Power BI |
+| 6 | [Insurance Pricing — SUSEP](#6-insurance-pricing-model--susep-autoseg) | GLM vs XGBoost pricing | Python · Streamlit |
+| 7 | [Reinsurance Portfolio Optimization](#7-reinsurance-portfolio-optimization) | EVT · treaty structuring | Python · Streamlit |
+| 8 | [Pension Fund Actuarial Analysis](#8-pension-fund-actuarial-analysis) | Lee-Carter · PUC · ALM | R · Python |
+
+### 1. [Mortality Forecasting — Pension Fund Credibility (EFPC)](https://github.com/arthurpmotta02/credibilidade-mortalidade-efpc)
 
 Mortality forecasting for a Brazilian EFPC using Bühlmann-Straub credibility and full Bayesian inference. Individual age-level data (116 ages, 417k person-years, 3,658 deaths, 2012–2014). PELT-Poisson changepoint detection for objective risk segmentation (6 breakpoints, largest regime shift 7.06×). Credibility factors ω̂ᵢ > 0.999 across all groups. BS outperforms AT-2000, BR-EMS and Pub-2010 in 3 of 4 age bands. Poisson-Gamma Stan model (4 chains × 30k iter, R̂ < 1.001): full predictive distribution with 95% CI [1,144; 1,322] for 2014 vs. 1,335 observed. Interactive Quarto report published on GitHub Pages.
 
 [![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/credibilidade-mortalidade-efpc/)
 [![PDF](https://img.shields.io/badge/PDF-LaTeX-red?style=flat-square)](https://github.com/arthurpmotta02/credibilidade-mortalidade-efpc/blob/main/relatorio.pdf)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Stan](https://img.shields.io/badge/Stan-B2001D?style=flat-square)
 ![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
@@ -86,12 +103,11 @@ Mortality forecasting for a Brazilian EFPC using Bühlmann-Straub credibility an
 
 ---
 
-### [Serum Free Light Chain & All-Cause Mortality — Survival Analysis](https://github.com/arthurpmotta02/flc-survival-analysis)
+### 2. [Serum Free Light Chain & All-Cause Mortality — Survival Analysis](https://github.com/arthurpmotta02/flc-survival-analysis)
 
 Complete survival analysis of the `flchain` cohort (7,871 individuals, 2,166 deaths, 14.3 yr follow-up) investigating the association between serum FLC and all-cause mortality. Kaplan-Meier and Nelson-Aalen estimators by FLC group, sex and age band. Cox proportional hazards model selected via Collett 4-step procedure + stepAIC + sequential LRT: HR 2.04 (95% CI 1.73–2.40) for high vs. low FLC after adjustment for age, sex, creatinine and MGUS; Harrell's C = 0.788. Parametric AFT comparison across 6 distributions — generalized gamma selected (ΔAIC > 50 over all alternatives, Q̂ ≈ 1.57, 95% CI 1.38–1.75), reducing expected survival time by ~42% in the high FLC group. Five Cox diagnostics (Schoenfeld, Martingale, dfbetas, Deviance, C-statistic). Interactive Quarto report published on GitHub Pages.
 
 [![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/flc-survival-analysis/)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![survival](https://img.shields.io/badge/survival-276DC3?style=flat-square&logo=r&logoColor=white)
 ![flexsurv](https://img.shields.io/badge/flexsurv-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -101,12 +117,11 @@ Complete survival analysis of the `flchain` cohort (7,871 individuals, 2,166 dea
 
 ---
 
-### [CO₂ Mauna Loa — SARIMA Forecasting](https://github.com/arthurpmotta02/co2-mauna-loa-sarima)
+### 3. [CO₂ Mauna Loa — SARIMA Forecasting](https://github.com/arthurpmotta02/co2-mauna-loa-sarima)
 
 Full SARIMA analysis of the Keeling Curve (468 monthly observations, 1959–1997). STL decomposition, ADF/KPSS stationarity tests, ACF/PACF identification. Seven candidate models compared by AIC, AICc and BIC — SARIMA(1,1,1)(0,1,1)₁₂ selected by parsimony (ΔAICc < 0.3 vs. nearest competitor). All diagnostics passed: Ljung-Box p = 0.41 (h = 48), Shapiro-Wilk p = 0.53, Jarque-Bera p = 0.38. 24-month forecast for 1998–1999 with 95% CI width growing from ±0.5 to ±2.0 ppm (<0.6% relative error). Regression + ARMA(1,1) alternative benchmarked (ΔAIC = 104). Extended in Part 2 with Dynamic Linear Models. Interactive Quarto report published on GitHub Pages.
 
 [![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/co2-mauna-loa-sarima/)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![forecast](https://img.shields.io/badge/forecast-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-4AA8D8?style=flat-square)
@@ -115,12 +130,11 @@ Full SARIMA analysis of the Keeling Curve (468 monthly observations, 1959–1997
 
 ---
 
-### [CO₂ Mauna Loa — Dynamic Linear Models](https://github.com/arthurpmotta02/co2-mauna-loa-dlm)
+### 4. [CO₂ Mauna Loa — Dynamic Linear Models](https://github.com/arthurpmotta02/co2-mauna-loa-dlm)
 
 Bayesian state-space analysis of the Keeling Curve using Dynamic Linear Models (same dataset as Part 1). Three DLM formulations compared (dlmModSeas, dlmModTrig, KFAS) — Model B (dlmModTrig, J = 6 Fourier harmonics, 13 states) selected by log-likelihood (205.42) and as the only model satisfying both white-noise (Ljung-Box p = 0.21, h = 12) and normality (Shapiro-Wilk p = 0.56) assumptions on innovations. Kalman filter and backward smoother recover the latent level μₜ and growth rate β̂ₜ, revealing acceleration from ~0.8 to ~1.5 ppm/yr (1960–1997) — inaccessible to SARIMA. Discount factor approach (δ_T = 0.95, δ_S = 0.98) implemented from scratch for unknown V. 24-month forecasts align with SARIMA within 0.5 ppm across all horizons. Interactive Quarto report published on GitHub Pages.
 
 [![Report](https://img.shields.io/badge/Report-GitHub%20Pages-003865?style=flat-square)](https://arthurpmotta02.github.io/co2-mauna-loa-dlm/)
-
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![dlm](https://img.shields.io/badge/dlm-276DC3?style=flat-square&logo=r&logoColor=white)
 ![KFAS](https://img.shields.io/badge/KFAS-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -130,7 +144,7 @@ Bayesian state-space analysis of the Keeling Curve using Dynamic Linear Models (
 
 ---
 
-### [Cadastral Actuarial Pipeline](https://github.com/arthurpmotta02/cadastral-actuarial-pipeline)
+### 5. [Cadastral Actuarial Pipeline](https://github.com/arthurpmotta02/cadastral-actuarial-pipeline)
 
 Actuarial data quality pipeline for Brazilian EFPC pension funds (PREVIC Resolution 7/2022 and CPA 017/2019 IBA). Automates 19 regulatory validations across 3 participant populations (active, beneficiaries, deferred), classifying issues as CRITICAL or ALERT. Processes 930-participant base in ~2 seconds vs hours of manual Excel work. Outputs: formatted actuarial Excel report, Plotly Dash dashboard (4 pages, dark theme, Docker deploy), and a full Power BI PBIP/PBIR project generated entirely by code (47 JSON files via TMDL).
 
@@ -142,7 +156,7 @@ Actuarial data quality pipeline for Brazilian EFPC pension funds (PREVIC Resolut
 
 ---
 
-### [Insurance Pricing Model — SUSEP AUTOSEG](https://github.com/arthurpmotta02/insurance-pricing-susep)
+### 6. [Insurance Pricing Model — SUSEP AUTOSEG](https://github.com/arthurpmotta02/insurance-pricing-susep)
 
 End-to-end pricing pipeline for auto insurance using real Brazilian market data (SUSEP AUTOSEG 2019–2021). Collision and theft coverages modelled separately with GLM Poisson (frequency) and GLM Gamma (severity), benchmarked against XGBoost Tweedie (Gini = 0.241 collision, 0.402 theft). SHAP explainability. Interactive Streamlit deploy.
 
@@ -155,7 +169,7 @@ End-to-end pricing pipeline for auto insurance using real Brazilian market data 
 
 ---
 
-### [Reinsurance Portfolio Optimization](https://github.com/arthurpmotta02/reinsurance-portfolio-optimization)
+### 7. [Reinsurance Portfolio Optimization](https://github.com/arthurpmotta02/reinsurance-portfolio-optimization)
 
 Reinsurance analytics pipeline on French Motor TPL data (freMTPL2, 678k policies). Extreme Value Theory (GPD, Hill estimator) for tail modelling; treaty structuring across Quota Share, XL and Aggregate Stop Loss; differential evolution optimization achieving 20.1% capital relief on VaR 99.5% annual aggregate. Streamlit dashboard with 5 interactive pages.
 
@@ -167,9 +181,9 @@ Reinsurance analytics pipeline on French Motor TPL data (freMTPL2, 678k policies
 
 ---
 
-### [Pension Fund Actuarial Analysis](https://github.com/arthurpmotta02/pension-fund-actuarial-analysis)
+### 8. [Pension Fund Actuarial Analysis](https://github.com/arthurpmotta02/pension-fund-actuarial-analysis)
 
-Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortality projection to 2065 via `StMoMo`; Projected Unit Credit method via `lifecontingencies` — PMBaC R$16.7M, PMBC R$353.8M. Longevity sensitivity: +1 yr of life expectancy = +0.7% liability. ALM: liability duration 18.5 yr vs NTN-B portfolio 9.3 yr. Interest rate stress +-200bp. Streamlit dashboard.
+Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortality projection to 2065 via `StMoMo`; Projected Unit Credit method via `lifecontingencies` — PMBaC R$16.7M, PMBC R$353.8M. Longevity sensitivity: +1 yr of life expectancy = +0.7% liability. ALM: liability duration 18.5 yr vs NTN-B portfolio 9.3 yr. Interest rate stress ±200bp. Streamlit dashboard.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -180,6 +194,33 @@ Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortali
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula&hide_border=true)](https://github.com/arthurpmotta02)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arthurpmotta02&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=arthurpmotta02&theme=dracula&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurpmotta02&theme=dracula&hide_border=true&area=true&radius=8" alt="Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"All models are wrong, but some are useful."* — George E. P. Box
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,50:6272a4,100:282a36&height=120&section=footer" width="100%"/>
+
+</div>

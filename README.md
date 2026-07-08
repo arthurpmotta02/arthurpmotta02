@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=190&section=header&text=Arthur%20Pontes%20Motta&fontSize=44&fontColor=f8f8f2&animation=fadeIn&fontAlignY=32&desc=Actuarial%20Science%20%26%20Statistics%20%C2%B7%20UFRJ&descSize=18&descAlignY=54" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=190&section=header&text=Arthur%20Pontes%20Motta&fontSize=44&fontColor=f8f8f2&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/arthurpmotta02">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Actuarial+Science+%26+Statistics+%40+UFRJ;Stochastic+Processes+Researcher+%40+CNPq%2FIM-UFRJ;Bayesian+Inference+%C2%B7+Credibility+Theory;Survival+Analysis+%C2%B7+Time+Series+%C2%B7+EVT;Pricing+%C2%B7+Reserving+%C2%B7+Reinsurance+%C2%B7+ALM" alt="Typing SVG" />
@@ -198,16 +198,12 @@ Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortali
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arthurpmotta02&theme=dracula&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" width="100%"/>
+<img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=arthurpmotta02&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpmotta02&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=arthurpmotta02&theme=dracula&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="github-languages.svg" alt="Most Used Languages" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=arthurpmotta02&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 <br/><br/>
 

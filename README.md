@@ -198,16 +198,16 @@ Full actuarial valuation of a Brazilian Defined Benefit plan. Lee-Carter mortali
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-<br/><br/>
-
 <img src="github-languages.svg" alt="Most Used Languages" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=arthurpmotta02&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurpmotta02&theme=dracula&hide_border=true&area=true&radius=8" alt="Contribution Graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/arthurpmotta02/arthurpmotta02/output/github-snake.svg" alt="Snake eating my contributions" width="100%"/>
 
 </div>
 

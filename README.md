@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,100:bd93f9&height=190&section=header&text=Arthur%20Pontes%20Motta&fontSize=44&fontColor=f8f8f2&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/arthurpmotta02">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Actuarial+Science+%26+Statistics+%40+UFRJ;Stochastic+Processes+Researcher+%40+CNPq%2FIM-UFRJ;Bayesian+Inference+%C2%B7+Credibility+Theory;Survival+Analysis+%C2%B7+Time+Series+%C2%B7+EVT;Pricing+%C2%B7+Reserving+%C2%B7+Reinsurance+%C2%B7+ALM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&lines=Actuarial+Science+%26+Statistics+%40+UFRJ;Bayesian+Inference+%C2%B7+Credibility+Theory;Survival+Analysis+%C2%B7+Time+Series+%C2%B7+EVT;Pricing+%C2%B7+Reserving+%C2%B7+Reinsurance+%C2%B7+ALM" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthurpmotta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurpmotta)
 [![GitHub](https://img.shields.io/badge/GitHub-arthurpmotta02-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurpmotta02)
 [![Email](https://img.shields.io/badge/Email-arthurpmotta02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurpmotta02@gmail.com)
-[![CNPq](https://img.shields.io/badge/CNPq-Stochastic%20Processes%20Research-6272a4?style=for-the-badge)](https://dgp.cnpq.br/dgp/espelhogrupo/2640323226298690)
 
 <img src="https://komarev.com/ghpvc/?username=arthurpmotta02&color=bd93f9&style=flat-square&label=Profile+views" alt="Profile views"/>
 
@@ -20,7 +19,6 @@
 ## About
 
 - B.Sc. in **Actuarial Science & Statistics** — UFRJ (2021–2026)
-- Undergraduate researcher in **Stochastic Processes with Renewal** — IM/UFRJ · CNPq (2024–2026)
 - Core interests: **actuarial pricing · credibility theory · survival analysis · time series & state space models · Bayesian inference · reinsurance analytics · pension fund valuation · loss reserving · Extreme Value Theory · ALM**
 - Everything I build ships as a **reproducible report or interactive app** — Quarto on GitHub Pages, Streamlit, Plotly Dash or Power BI
 
